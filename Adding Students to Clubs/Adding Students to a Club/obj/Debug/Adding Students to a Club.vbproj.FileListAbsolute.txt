@@ -1,0 +1,23 @@
+C:\Users\Kip\AppData\Local\Temporary Projects\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe.config
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\bin\Debug\Adding Students to a Club.pdb
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\bin\Debug\Adding Students to a Club.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding_Students_to_a_Club.Form1.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding_Students_to_a_Club.Resources.resources
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.exe
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.xml
+D:\sovb15\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 4\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.pdb
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe.config
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\bin\Debug\Adding Students to a Club.exe
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\bin\Debug\Adding Students to a Club.pdb
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\bin\Debug\Adding Students to a Club.xml
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.vbprojAssemblyReference.cache
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding_Students_to_a_Club.Form1.resources
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding_Students_to_a_Club.Resources.resources
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.vbproj.GenerateResource.cache
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.vbproj.CoreCompileInputs.cache
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.exe
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.xml
+C:\Users\tec435-student\Downloads\Challenge 6\Adding Students to Clubs\Adding Students to a Club\obj\Debug\Adding Students to a Club.pdb
